@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robert8888/rosa-demo.git/static/css/main.e4f66e19.chunk.css",
+    "main.js": "/robert8888/rosa-demo.git/static/js/main.0e95dd1c.chunk.js",
+    "main.js.map": "/robert8888/rosa-demo.git/static/js/main.0e95dd1c.chunk.js.map",
+    "runtime-main.js": "/robert8888/rosa-demo.git/static/js/runtime-main.d13352e0.js",
+    "runtime-main.js.map": "/robert8888/rosa-demo.git/static/js/runtime-main.d13352e0.js.map",
+    "static/css/2.e70e3282.chunk.css": "/robert8888/rosa-demo.git/static/css/2.e70e3282.chunk.css",
+    "static/js/2.ac28f429.chunk.js": "/robert8888/rosa-demo.git/static/js/2.ac28f429.chunk.js",
+    "static/js/2.ac28f429.chunk.js.map": "/robert8888/rosa-demo.git/static/js/2.ac28f429.chunk.js.map",
+    "index.html": "/robert8888/rosa-demo.git/index.html",
+    "precache-manifest.5bc5da77505af0ac88cde964c7913c23.js": "/robert8888/rosa-demo.git/precache-manifest.5bc5da77505af0ac88cde964c7913c23.js",
+    "service-worker.js": "/robert8888/rosa-demo.git/service-worker.js",
+    "static/css/2.e70e3282.chunk.css.map": "/robert8888/rosa-demo.git/static/css/2.e70e3282.chunk.css.map",
+    "static/css/main.e4f66e19.chunk.css.map": "/robert8888/rosa-demo.git/static/css/main.e4f66e19.chunk.css.map",
+    "static/js/2.ac28f429.chunk.js.LICENSE.txt": "/robert8888/rosa-demo.git/static/js/2.ac28f429.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d13352e0.js",
+    "static/css/2.e70e3282.chunk.css",
+    "static/js/2.ac28f429.chunk.js",
+    "static/css/main.e4f66e19.chunk.css",
+    "static/js/main.0e95dd1c.chunk.js"
+  ]
+}
