@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4f66e19.chunk.css",
-    "main.js": "/static/js/main.491d2c52.chunk.js",
-    "main.js.map": "/static/js/main.491d2c52.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.138b12f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.138b12f9.js.map",
-    "static/css/2.e70e3282.chunk.css": "/static/css/2.e70e3282.chunk.css",
-    "static/js/2.ac28f429.chunk.js": "/static/js/2.ac28f429.chunk.js",
-    "static/js/2.ac28f429.chunk.js.map": "/static/js/2.ac28f429.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.801e09d3126b18da8d4918db91a88d7b.js": "/precache-manifest.801e09d3126b18da8d4918db91a88d7b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e70e3282.chunk.css.map": "/static/css/2.e70e3282.chunk.css.map",
-    "static/css/main.e4f66e19.chunk.css.map": "/static/css/main.e4f66e19.chunk.css.map",
-    "static/js/2.ac28f429.chunk.js.LICENSE.txt": "/static/js/2.ac28f429.chunk.js.LICENSE.txt"
+    "main.css": "/rosa-demo/static/css/main.e4f66e19.chunk.css",
+    "main.js": "/rosa-demo/static/js/main.c116caff.chunk.js",
+    "main.js.map": "/rosa-demo/static/js/main.c116caff.chunk.js.map",
+    "runtime-main.js": "/rosa-demo/static/js/runtime-main.307446b7.js",
+    "runtime-main.js.map": "/rosa-demo/static/js/runtime-main.307446b7.js.map",
+    "static/css/2.e70e3282.chunk.css": "/rosa-demo/static/css/2.e70e3282.chunk.css",
+    "static/js/2.ac28f429.chunk.js": "/rosa-demo/static/js/2.ac28f429.chunk.js",
+    "static/js/2.ac28f429.chunk.js.map": "/rosa-demo/static/js/2.ac28f429.chunk.js.map",
+    "index.html": "/rosa-demo/index.html",
+    "precache-manifest.74b7e0987e1132d672ca97d76a1e72ae.js": "/rosa-demo/precache-manifest.74b7e0987e1132d672ca97d76a1e72ae.js",
+    "service-worker.js": "/rosa-demo/service-worker.js",
+    "static/css/2.e70e3282.chunk.css.map": "/rosa-demo/static/css/2.e70e3282.chunk.css.map",
+    "static/css/main.e4f66e19.chunk.css.map": "/rosa-demo/static/css/main.e4f66e19.chunk.css.map",
+    "static/js/2.ac28f429.chunk.js.LICENSE.txt": "/rosa-demo/static/js/2.ac28f429.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.138b12f9.js",
+    "static/js/runtime-main.307446b7.js",
     "static/css/2.e70e3282.chunk.css",
     "static/js/2.ac28f429.chunk.js",
     "static/css/main.e4f66e19.chunk.css",
-    "static/js/main.491d2c52.chunk.js"
+    "static/js/main.c116caff.chunk.js"
   ]
 }
