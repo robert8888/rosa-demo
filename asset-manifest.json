@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/robert8888/rosa-demo/static/css/main.e4f66e19.chunk.css",
-    "main.js": "/robert8888/rosa-demo/static/js/main.c6eff9ea.chunk.js",
-    "main.js.map": "/robert8888/rosa-demo/static/js/main.c6eff9ea.chunk.js.map",
-    "runtime-main.js": "/robert8888/rosa-demo/static/js/runtime-main.3b08252d.js",
-    "runtime-main.js.map": "/robert8888/rosa-demo/static/js/runtime-main.3b08252d.js.map",
-    "static/css/2.e70e3282.chunk.css": "/robert8888/rosa-demo/static/css/2.e70e3282.chunk.css",
-    "static/js/2.ac28f429.chunk.js": "/robert8888/rosa-demo/static/js/2.ac28f429.chunk.js",
-    "static/js/2.ac28f429.chunk.js.map": "/robert8888/rosa-demo/static/js/2.ac28f429.chunk.js.map",
-    "index.html": "/robert8888/rosa-demo/index.html",
-    "precache-manifest.f79da2fabda3023308269fd729a1bd05.js": "/robert8888/rosa-demo/precache-manifest.f79da2fabda3023308269fd729a1bd05.js",
-    "service-worker.js": "/robert8888/rosa-demo/service-worker.js",
-    "static/css/2.e70e3282.chunk.css.map": "/robert8888/rosa-demo/static/css/2.e70e3282.chunk.css.map",
-    "static/css/main.e4f66e19.chunk.css.map": "/robert8888/rosa-demo/static/css/main.e4f66e19.chunk.css.map",
-    "static/js/2.ac28f429.chunk.js.LICENSE.txt": "/robert8888/rosa-demo/static/js/2.ac28f429.chunk.js.LICENSE.txt"
+    "main.css": "/rosa-demo/static/css/main.e4f66e19.chunk.css",
+    "main.js": "/rosa-demo/static/js/main.c116caff.chunk.js",
+    "main.js.map": "/rosa-demo/static/js/main.c116caff.chunk.js.map",
+    "runtime-main.js": "/rosa-demo/static/js/runtime-main.307446b7.js",
+    "runtime-main.js.map": "/rosa-demo/static/js/runtime-main.307446b7.js.map",
+    "static/css/2.e70e3282.chunk.css": "/rosa-demo/static/css/2.e70e3282.chunk.css",
+    "static/js/2.ac28f429.chunk.js": "/rosa-demo/static/js/2.ac28f429.chunk.js",
+    "static/js/2.ac28f429.chunk.js.map": "/rosa-demo/static/js/2.ac28f429.chunk.js.map",
+    "index.html": "/rosa-demo/index.html",
+    "precache-manifest.74b7e0987e1132d672ca97d76a1e72ae.js": "/rosa-demo/precache-manifest.74b7e0987e1132d672ca97d76a1e72ae.js",
+    "service-worker.js": "/rosa-demo/service-worker.js",
+    "static/css/2.e70e3282.chunk.css.map": "/rosa-demo/static/css/2.e70e3282.chunk.css.map",
+    "static/css/main.e4f66e19.chunk.css.map": "/rosa-demo/static/css/main.e4f66e19.chunk.css.map",
+    "static/js/2.ac28f429.chunk.js.LICENSE.txt": "/rosa-demo/static/js/2.ac28f429.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b08252d.js",
+    "static/js/runtime-main.307446b7.js",
     "static/css/2.e70e3282.chunk.css",
     "static/js/2.ac28f429.chunk.js",
     "static/css/main.e4f66e19.chunk.css",
-    "static/js/main.c6eff9ea.chunk.js"
+    "static/js/main.c116caff.chunk.js"
   ]
 }
