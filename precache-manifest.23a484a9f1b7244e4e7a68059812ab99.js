@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1165ca517be2cd399c2d1678d7469051",
+    "revision": "a22f313444a6f482a34f7111cf465a1e",
     "url": "/rosa-demo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rosa-demo/static/css/2.e70e3282.chunk.css"
   },
   {
-    "revision": "201c816bdd7938cdb25c",
-    "url": "/rosa-demo/static/css/main.95255ef1.chunk.css"
+    "revision": "ea05cd53a2bf8bd86ba2",
+    "url": "/rosa-demo/static/css/main.3fc0b893.chunk.css"
   },
   {
     "revision": "c2fa3d7f57f8e6332555",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rosa-demo/static/js/2.ac28f429.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "201c816bdd7938cdb25c",
+    "revision": "ea05cd53a2bf8bd86ba2",
     "url": "/rosa-demo/static/js/main.c116caff.chunk.js"
   },
   {

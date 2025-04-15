@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rosa-demo/static/css/main.95255ef1.chunk.css",
+    "main.css": "/rosa-demo/static/css/main.3fc0b893.chunk.css",
     "main.js": "/rosa-demo/static/js/main.c116caff.chunk.js",
     "main.js.map": "/rosa-demo/static/js/main.c116caff.chunk.js.map",
     "runtime-main.js": "/rosa-demo/static/js/runtime-main.307446b7.js",
@@ -9,17 +9,17 @@
     "static/js/2.ac28f429.chunk.js": "/rosa-demo/static/js/2.ac28f429.chunk.js",
     "static/js/2.ac28f429.chunk.js.map": "/rosa-demo/static/js/2.ac28f429.chunk.js.map",
     "index.html": "/rosa-demo/index.html",
-    "precache-manifest.1eab16f9aba270282a6eb46709821137.js": "/rosa-demo/precache-manifest.1eab16f9aba270282a6eb46709821137.js",
+    "precache-manifest.23a484a9f1b7244e4e7a68059812ab99.js": "/rosa-demo/precache-manifest.23a484a9f1b7244e4e7a68059812ab99.js",
     "service-worker.js": "/rosa-demo/service-worker.js",
     "static/css/2.e70e3282.chunk.css.map": "/rosa-demo/static/css/2.e70e3282.chunk.css.map",
-    "static/css/main.95255ef1.chunk.css.map": "/rosa-demo/static/css/main.95255ef1.chunk.css.map",
+    "static/css/main.3fc0b893.chunk.css.map": "/rosa-demo/static/css/main.3fc0b893.chunk.css.map",
     "static/js/2.ac28f429.chunk.js.LICENSE.txt": "/rosa-demo/static/js/2.ac28f429.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.307446b7.js",
     "static/css/2.e70e3282.chunk.css",
     "static/js/2.ac28f429.chunk.js",
-    "static/css/main.95255ef1.chunk.css",
+    "static/css/main.3fc0b893.chunk.css",
     "static/js/main.c116caff.chunk.js"
   ]
 }
